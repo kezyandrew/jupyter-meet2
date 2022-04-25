@@ -1,4 +1,4 @@
-## Expose MiroTalk on HTTPS
+## Expose easy meet on HTTPS
 
 ![mirotalk-https](https.png)
 
