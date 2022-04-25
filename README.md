@@ -1,9 +1,9 @@
-# jupyter meet
+#  easy-meet
 
 
 
 
-Powered by `WebRTC` using google Stun and [numb](http://numb.viagenie.ca/) Turn. `MiroTalk` provides video quality and latency not available with traditional technology.
+Powered by `WebRTC` using google Stun and [numb](http://numb.viagenie.ca/) Turn. `easy-meet` provides video quality and latency not available with traditional technology.
 
 Open the app with the following **supported browsers** & many more...
 
@@ -47,9 +47,9 @@ Open the app with the following **supported browsers** & many more...
 
 ```bash
 # clone this repo
-$ git clone https://github.com/andrewkezy/jupyter-meet2.git
-# go to mirotalk dir
-$ cd mirotalk
+$ git clone https://github.com/andrewkezy/easy-meet.git
+# go to easy-meet dir
+$ cd easy-meet
 # copy .env.template to .env
 $ cp .env.template .env
 # install dependencies
@@ -82,7 +82,7 @@ $ docker-compose down
 ---
 
 
-If you want `Jupyter meet` to be `reachable` from the `outside` of your local network, you can use a service like [ngrok](https://ngrok.com/) (by editing the `Ngrok` part on `.env` file) or expose it directly on [https](ssl/README.md) or deploy it on:
+If you want `Easy-meet` to be `reachable` from the `outside` of your local network, you can use a service like [ngrok](https://ngrok.com/) (by editing the `Ngrok` part on `.env` file) or expose it directly on [https](ssl/README.md) or deploy it on:
 
 <br>
 
